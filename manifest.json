@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "web archive",
+    "name": "weburls",
     "version": "1.0",
     "description": "Inserts a URL into the current tab's URL",
     "permissions": ["activeTab"],
@@ -8,9 +8,8 @@
       "default_popup": "popup.html"
     },
     "icons": {
-      "16": "get.png",
-      "48": "get.png",
-      "128": "get.png"
+      "16": "assets/get.png",
+      "48": "assets/get.png",
+      "128": "assets/get.png"
     }
   }
-  
